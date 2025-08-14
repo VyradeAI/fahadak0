@@ -9,8 +9,8 @@ This repository contains over **2,000 real-world n8n workflows** used in product
 ## 📁 Repository Structure
 
 ```
-n8n-workflows/
-├── workflows/           # All exported n8n .json workflow files (2055+)
+workflows/
+├── n8n-workflows/           # All exported n8n .json workflow files (2055+)
 ├── README.md            # This file
 ├── LICENSE              # Open-source license (MIT or your choice)
 └── .gitignore
