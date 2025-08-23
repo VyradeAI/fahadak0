@@ -1,7 +1,7 @@
 
 # 🚀 Vyrade's n8n Workflow Library
 
-Welcome to the official **n8n automation workflow repository** by [Vyrade](https://www.vyrade.ai), curated by [Fahad Ali](https://github.com/vyradeai).  
+Welcome to the official **n8n automation workflow repository** by [Vyrade](https://www.vyrade.ai).  
 This repository contains over **2,000 real-world n8n workflows** used in production to automate business operations, AI content pipelines, marketing, approvals, and data flows — without writing code.
 
 ---
