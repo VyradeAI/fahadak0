@@ -103,7 +103,7 @@ You are free to use, modify, and redistribute the workflows with or without cred
 
 For questions, enterprise usage, or collaboration:
 
-- 👨‍💼 **Founder**: [Fahad Ali](https://github.com/vyradeai)
+- 👨‍💼 **Founder**: Fahad Ali
 - 🧠 **Platform**: [vyrade.ai](https://www.vyrade.ai)
 
 ---
